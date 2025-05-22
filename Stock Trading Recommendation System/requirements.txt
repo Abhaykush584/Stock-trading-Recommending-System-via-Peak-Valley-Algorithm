@@ -4,5 +4,6 @@ numpy
 plotly
 scikit-learn
 matplotlib
-seaborn 
+seaborn
 requests
+
