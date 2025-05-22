@@ -94,6 +94,7 @@ Edit
 ├── peak_valley.py
 ├── dashboard.py
 └── README.md
+
 🧠 Key Concepts & Integration
 🔁 Return Column:
 Not predicted by ML. Instead, it's a feature indicating momentum.
@@ -112,6 +113,7 @@ Detects price valleys (buy signals) and peaks (sell signals) based on predicted 
 
 Integrated with actual predicted data to simulate realistic trades.
 
+
 📧 Email Alerts:
 Configured with Gmail SMTP.
 
@@ -129,24 +131,25 @@ Sharpe Ratio: ~1.60 (indicative of healthy strategy)
 Number of Trades: ~10–20 over test period
 
 💻 How to Run
+
 1. Install Dependencies
 bash
 Copy
 Edit
 pip install pandas numpy scikit-learn streamlit plotly
-2. Run ML Prediction
+
+3. Run ML Prediction
 bash
 Copy
 Edit
 python ml_prediction.py
-# or enhanced version
-python ml_enhancement.py
-3. Run Dashboard
+
+4. Run Dashboard
 bash
 Copy
 Edit
 streamlit run dashboard.py
-4. Optional: Set up Email Alerts
+5. Optional: Set up Email Alerts
 Generate Gmail App Password.
 
 Replace placeholder in ml_enhancement.py.
