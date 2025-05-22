@@ -172,11 +172,12 @@ Replace placeholder in ml_enhancement.py.
 
 
 
-[Streamlit Dashboard](outcomes/Screenshot 2025-05-22 065830.png)
-[price trends with buy/sell signals](outcomes/Screenshot 2025-05-22 070012.png)
-[Day wise profit margin trend](outcomes/Screenshot 2025-05-22 065954.png)
-[portfolio movement](outcomes/Screenshot 2025-05-22 070031.png)
-[performance matrics](outcomes/Screenshot 2025-05-22 070107.png)
+![Streamlit Dashboard](outcomes/Screenshot_2025-05-22_065830.png)  
+![Price trends with buy/sell signals](outcomes/Screenshot_2025-05-22_070012.png)  
+![Day wise profit margin trend](outcomes/Screenshot_2025-05-22_065954.png)  
+![Portfolio movement](outcomes/Screenshot_2025-05-22_070031.png)  
+![Performance metrics](outcomes/Screenshot_2025-05-22_070107.png)
+
 
 
 
