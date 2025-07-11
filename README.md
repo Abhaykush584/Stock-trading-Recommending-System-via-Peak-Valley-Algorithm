@@ -185,6 +185,6 @@ Replace placeholder in ml_enhancement.py.
 
 👨‍💻 Author
 Abhay Kush
-Data Analyst | Python Enthusiast | ML Explorer
-📧 [abhaykush584@gmail.com]
-🔗 [www.linkedin.com/in/abhay-kush-440696259]
+#Data Analyst | Python Enthusiast | ML Explorer
+<!-- 📧 [abhaykush584@gmail.com]
+🔗 [www.linkedin.com/in/abhay-kush-440696259]  -->
