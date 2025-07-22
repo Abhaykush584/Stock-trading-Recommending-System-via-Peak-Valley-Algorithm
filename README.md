@@ -172,14 +172,14 @@ Replace placeholder in ml_enhancement.py.
 
 
 
-![Streamlit Dashboard](outcomes/Screenshot%202025-07-22%111256.png)  
+![Streamlit Dashboard](outcomes/Screenshot%202025-07-22%20111256.png)  
 ![Price trends with buy/sell signals](outcomes/Screenshot%202025-05-22%20070012.png)  
 ![Day wise profit margin trend](outcomes/Screenshot%202025-05-22%20065954.png)  
 ![Portfolio movement](outcomes/Screenshot%202025-05-22%20070031.png)  
-![Insights and Backtest](outcomes/Screenshot%202025-07-22%111357.png) 
+![Insights and Backtest](outcomes/Screenshot%202025-07-22%20111357.png) 
 ![Performance metrics](outcomes/Screenshot%202025-05-22%20070107.png)
-![Visual Representation](outcomes/Screenshot%202025-07-22%111443.png)
-![Email Alerts](outcomes/Screenshot%202025-07-22%111514.png)
+![Visual Representation](outcomes/Screenshot%202025-07-22%20111443.png)
+![Email Alerts](outcomes/Screenshot%202025-07-22%20111514.png)
 
 
 
@@ -188,6 +188,4 @@ Replace placeholder in ml_enhancement.py.
 
 👨‍💻 Author
 Abhay Kush
-#Data Analyst | Python Enthusiast | ML Explorer
-<!-- 📧 [abhaykush584@gmail.com]
-🔗 [www.linkedin.com/in/abhay-kush-440696259]  -->
+
